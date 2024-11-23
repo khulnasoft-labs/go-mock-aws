@@ -9,7 +9,7 @@ require (
 	github.com/aws/aws-sdk-go-v2/service/sqs v1.31.1
 	github.com/docker/docker v24.0.5+incompatible
 	github.com/docker/go-connections v0.4.0
-	github.com/stretchr/testify v1.8.4
+	github.com/stretchr/testify v1.10.0
 )
 
 require (
